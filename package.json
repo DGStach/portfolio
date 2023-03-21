@@ -9,8 +9,8 @@
     "deploy": "gh-pages -d build",
     "start": "parcel",
     "build": "parcel build",
-    "gh-pages-build": "parcel build --public-url .",
-    "buildd": "parcel build && mv build doc"
+    "gh-pages-build": "parcel build --public-url . --dist-dir docs  "
+
   },
   "repository": {
     "type": "git",
