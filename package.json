@@ -1,5 +1,6 @@
 {
   "name": "simplefolio",
+  "homepage": "https://dgstach.github.io/portfolio/",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -21,6 +22,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://dgstach.github.io/portfolio/"
+  }
 }
